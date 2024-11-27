@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/byte-buddy-1.14.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/hibernate-core-6.4.4.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/jandex-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/jaxb-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/LEA/LIB_TESTING/txw2-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kevin/OneDrive/Desktop/lib/postgresql-42.7.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
